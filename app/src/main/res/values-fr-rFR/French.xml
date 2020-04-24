@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Entranement 1 </string>
+    <string name = "text_title"> Bienvenue </string>
+    <string name = "text_botton"> Entrez </string>
+</resources>
